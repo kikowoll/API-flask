@@ -6,7 +6,7 @@ CORS(app)
 
 @app.route('/')
 def hola_mundo():
-    return 'hola kiko wapeton'
+    return '<h1>hola kiko wapoooooo</h1>'
 
 if __name__ == '__main__':
     app.run()
